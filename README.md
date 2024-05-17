@@ -1,2 +1,2 @@
-# Anusha_Portofolio
-Here is the Portofolio. which will describes about Me and my Work :)
+# anusha_portofolio
+This is the basic portofolio about me and my work
